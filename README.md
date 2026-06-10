@@ -1,6 +1,6 @@
 # Social status mediates harvest-induced selection on behavioral type and predictability in Coyotes (_Canis latrans_)
 ## Authors: Nick A. Gulotta </sup>1</sup>, Joseph W. Hinton </sup>2</sup>, Michael J. Chamberlain</sup>1</sup>
-## Author affiliation: 
+### Author affiliation: 
 ### </sup>1</sup> Warnell School of Forestry and Natural Resources, University of Georgia, Athens, Georgia, USA. 
 ### </sup>2</sup> Wolf Conservation Center, South Salem, New York, USA
 
