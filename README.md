@@ -19,8 +19,8 @@ Human harvest is a pervasive selective force, yet how social structure shapes ha
 │   ├── Low_Arctic_productivity_gyrf.csv                               <- Survival data ready for modeling
 |
 ├── Rds files
-│   ├── hardwood_riiv_FINAL_check.rds                                  <- Fitted model file for hardwood landcover
-│   ├── shrub_riiv_FINAL_check.rds                                     <- Fitted model file for shrub landcover
+│   ├── hardwood_riiv_FINAL.zip                                        <- Fitted model file for hardwood landcover
+│   ├── shrub_riiv_FINAL.zip                                           <- Fitted model file for shrub landcover
 |
 ├── R script files
 │   ├── DHGLM_BehaviorSurvival_Analysis.R                              <- Fitted model file for hardwood landcove
